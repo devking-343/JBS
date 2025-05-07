@@ -1,0 +1,149 @@
+<style>
+
+#myHeader {
+ background-color: lightblue;
+ color: black;
+ font-size:40px;
+}
+#para1 {
+  text-align: center;
+  color: red;
+ }
+ #navy {
+   color:navy;
+   font-size:15px;
+ }
+
+.button4 {border-radius: 66px;}
+
+ .navy {
+   color:navy;
+   font-size:15px;
+ }
+.city {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+ }
+ .note {
+ font-size: 120%;
+ color: red
+ }
+
+.navy {
+ color: navy;
+  margin-left: 20px;
+ }
+
+
+.pml {
+margin-left: 10px;
+}
+.myHeader {
+ background-color: lightblue;
+ color: black;
+ font-size:40px;
+}
+
+#aqua {
+   color: aqua;}
+
+
+.fixed-header {
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color:;
+  color:;
+  padding:15px;
+  text-align:left;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+  margin-top: 90px;
+  padding: 20px;
+}
+
+.button1 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button4 {
+  background-color:none;
+  padding:0.8% 6%;
+  font-size:20px;
+  border:none;
+  margin-left:20%
+}
+.sect1 {
+  background-image: url('download (5).jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.sect2 {
+  background-image: url('');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@keyframes wonder1 {
+  0%{left:0%;}
+  50%{left:16%;}
+  100%{left:0%;}
+}
+
+.wonder1 {
+  position: relative;
+  animation-name: wonder1;
+  animation-duration: 1.1s;
+}
+
+@keyframes wonder2 {
+  0%{left:0%;}
+  50%{left:14%;}
+  100%{left:0%;}
+}
+
+.wonder2 {
+  position: relative;
+  animation-name: wonder2;
+  animation-duration: 1.3s;
+}
+
+@keyframes wonder3 {
+  0%{left:0%;}
+  50%{left:12%;}
+  100%{left:0%;}
+}
+
+.wonder3 {
+  position: relative;
+  animation-name: wonder3;
+  animation-duration: 1.5s;
+}
+
+@keyframes wonder4 {
+  0%{left:0%;}
+  50%{left:10%;}
+  100%{left:0%;}
+}
+
+.wonder4 {
+  position: relative;
+  animation-name: wonder4;
+  animation-duration: 1.5s;
+}
+</style>
